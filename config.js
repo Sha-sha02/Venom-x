@@ -9,16 +9,16 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '6281333154367'
-global.nomerowner = ["6281333154367"]
+global.owner = '2348022159244'
+global.nomerowner = ["2348022159244"]
 
 // Apikey 
 
 global.skizo = 'zallzall'
 global.casterix = 'GoldenWings'
 //watermark 
-global.packname = 'Di Buat Oleh'
-global.author = 'Zall-MD'
+global.packname = 'Mofe'
+global.author = 'The great one '
 
 // cpanel 
 global.domain = 'https://panelardipay.webprivate.my.id' // Isi Domain Lu
